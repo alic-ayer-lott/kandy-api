@@ -1,5 +1,5 @@
 {
-    "locations": [
+    "Locations": [
         {
             "id": 1,
             "address": "570 Loy Shores"
@@ -74,5 +74,56 @@
             "productTypeId": 5,
             "price": 0.84
         }
-    ]
+    ],
+    "Customers": [
+        {
+            "id": 1,
+            "name": "Amie Terry"
+        },
+        {
+            "id": 2,
+            "name": "Macey Bailey"
+        },
+        {
+            "id": 3,
+            "name": "Rocio Smith"
+        },
+        {
+            "id": 4,
+            "name": "Felipe Effertz"
+        },
+        {
+            "id": 5,
+            "name": "Josh Anderson"
+        }
+    ],
+    "Employees": [
+        {
+            "id": 1,
+            "name": "Jacinto Bruen",
+            "locationId": 5
+        },
+        {
+            "id": 2,
+            "name": "Maude Prohaska",
+            "locationId": 4
+        },
+        {
+            "id": 3,
+            "name": "Rowan Homenick",
+            "locationId": 3
+        },
+        {
+            "id": 4,
+            "name": "Neva McKenzie",
+            "locationId": 2
+        },
+        {
+            "id": 5,
+            "name": "Norval Runolfsson",
+            "locationId": 1
+        }
+    ],
+    "Purchases": [],
+    "LocationProducts": []
 }
