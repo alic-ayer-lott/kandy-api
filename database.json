@@ -124,6 +124,19 @@
             "locationId": 1
         }
     ],
-    "Purchases": [],
-    "LocationProducts": []
+    "Purchases": [
+        {
+            "id": 1,
+            "LocationProductId": 1,
+            "employeeId": 1,
+            "customerId": 1
+        }
+    ],
+    "LocationProducts": [
+        {
+            "id": 1,
+            "locationId": 1,
+            "productId": 1
+        }
+    ]
 }
