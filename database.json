@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "address": "570 Loy Shores"
+        },
+        {
+            "id": 2,
+            "address": "9384 Elmer Pine"
+        },
+        {
+            "id": 3,
+            "address": "9656 O'Keefe Summit"
+        },
+        {
+            "id": 4,
+            "address": "98766 Buck Extension"
+        },
+        {
+            "id": 5,
+            "address": "226 Kathleen Curve"
+        }
+    ],
+    "productsTypes": [
+        {
+            "id": 1,
+            "category": "chocolate"
+        },
+        {
+            "id": 2,
+            "category": "beverage"
+        },
+        {
+            "id": 3,
+            "category": "rock candy"
+        },
+        {
+            "id": 4,
+            "category": "jelly"
+        },
+        {
+            "id": 5,
+            "category": "gum"
+        }
+    ],
+    "Products": [
+        {
+            "id": 1,
+            "name": "Hershey's Bar",
+            "productTypeId": 1,
+            "price": 4.92
+        },
+        {
+            "id": 2,
+            "name": "Coke",
+            "productTypeId": 2,
+            "price": 3.30
+        },
+        {
+            "id": 3,
+            "name": "Jolly Rancher",
+            "productTypeId": 3,
+            "price": 2.87
+        },
+        {
+            "id": 4,
+            "name": "Gummy Bear",
+            "productTypeId": 4,
+            "price": 1.20
+        },
+        {
+            "id": 5,
+            "name": "Bazooka",
+            "productTypeId": 5,
+            "price": 0.84
+        }
+    ]
+}
