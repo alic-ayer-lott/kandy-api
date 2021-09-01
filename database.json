@@ -21,7 +21,7 @@
             "address": "226 Kathleen Curve"
         }
     ],
-    "productsTypes": [
+    "productTypes": [
         {
             "id": 1,
             "category": "chocolate"
